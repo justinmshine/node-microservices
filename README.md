@@ -42,3 +42,7 @@ Notification Service: Waiting for messages in user_notifications...
 Notification Service: New user created: {"id":1738588381768,"username":"Justin Shine","email":"justin@shine.com"}
 
 You will also be able to view in the RabbitMQ management interface. 
+
+Unit tests for the API endpoint can be run from the user directory using the cli command, 
+
+npm test
