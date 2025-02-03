@@ -46,3 +46,6 @@ You will also be able to view in the RabbitMQ management interface.
 Unit tests for the API endpoint can be run from the user directory using the cli command, 
 
 npm test
+
+Challenges faced:
+The main challenge I faced was how to get the app exported correctly for the unit tests to run. This is why the app.js file exists. Other than that it was a straight forward microservices task. 
